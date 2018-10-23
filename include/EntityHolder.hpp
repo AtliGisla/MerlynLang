@@ -1,7 +1,7 @@
-#ifndef ENTITYHOLDER_H
-#define ENTITYHOLDER_H
+#ifndef ENTITYHOLDER_HPP
+#define ENTITYHOLDER_HPP
 
-#include "Entity.h"
+#include "Entity.hpp"
 
 class EntityHolder {
     long size;

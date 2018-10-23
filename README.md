@@ -61,3 +61,14 @@ Voodoo Men are encapsulations with a name. They encapsulate Merlyns and Stoopids
 Kill is a command that uses the following syntax
 KILL <Merlyn/Stoopid/Voodoo Man> <2nd entity> ...
 It removes these entities.
+
+## SCREAM
+Prints the arguments to the outstream
+SCREAM INPUT A NUMBER
+Returns: INPUT A NUMBER
+
+## WHAT
+Asks for user input and returns it
+Example:
+MERLYN CASH NUMBER WHAT
+Gives the Merlyn of type Cash the name "NUMBER" and value that is inputted.
