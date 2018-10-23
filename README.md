@@ -37,6 +37,20 @@ MERLYN BAG HOES:
     MERLYN FACE THIRD DICK COMPLEXION OF A BACKWOODS
 This creates a Bag called Hoes which has 3 values.
 
+### Arithmetic
+To call any math operator, you must use the MATH[] encapsulation:
+Here is an example:
+MERLYN CASH INTEGER MATH[3 + 5]
+MERLYN GOLD FRACTION MATH[3.5 - 8.75]
+
+Here is a list of operators:
+* \+ Addition
+* \- Subtraction
+* \* Multiplication
+* / Division
+* \** Power
+* // Floored Division
+
 ## Functions / Stoopids:
 To define functions use the keyword: STOOPID
 

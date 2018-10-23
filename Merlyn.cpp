@@ -1,5 +1,11 @@
 #include <iostream>
-#include "Entity.h"
+#include "EntityHolder.h"
+
+EntityHolder tree;
+
+void merlyn(char* input);
+void stoopid(char* input);
+void voodooman(char* input);
 
 int main(int argc, const char* argv[]) {
     if(argc > 1){
