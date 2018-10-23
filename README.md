@@ -30,17 +30,17 @@ Example of FACE:
 MERLYN FACE GREET HELLO WORLD
 This gives the Merlyn called Greet the value of "HELLO WORLD".
 
-Example of BAG:
-MERLYN BAG HOES:
-    MERLYN CASH FIRST 19
-    MERLYN GOLD SECOND 13 18
-    MERLYN FACE THIRD DICK COMPLEXION OF A BACKWOODS
+Example of BAG:  
+MERLYN BAG HOES:  
+    MERLYN CASH FIRST 19  
+    MERLYN GOLD SECOND 13 18  
+    MERLYN FACE THIRD DICK COMPLEXION OF A BACKWOODS  
 This creates a Bag called Hoes which has 3 values.
 
 ### Arithmetic
 To call any math operator, you must use the MATH[] encapsulation:
-Here is an example:
-MERLYN CASH INTEGER MATH[3 + 5]
+Here is an example:  
+MERLYN CASH INTEGER MATH[3 + 5]  
 MERLYN GOLD FRACTION MATH[3.5 - 8.75]
 
 Here is a list of operators:
